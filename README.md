@@ -1,1 +1,4 @@
-# ULTRA-BINGO-final
+pyTelegramBotAPI
+flask
+flask-cors
+gunicorn# ULTRA-BINGO-final
